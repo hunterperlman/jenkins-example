@@ -58,14 +58,12 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>http://35.225.60.169:8080/artifactory/plugins-snapshot-local</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>http://35.225.60.169:8080/artifactory/plugins-snapshot-local</url>
         </repository>
     </distributionManagement>
 
