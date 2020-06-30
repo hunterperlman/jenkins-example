@@ -58,7 +58,7 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/repo/FN8PIshHk5uALNhkXbhs/</url>
+            <url>http://35.225.60.169:8080/artifactory/plugins-snapshot-local</url>
         </repository>
     </repositories>
 
